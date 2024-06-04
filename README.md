@@ -1,2 +1,1 @@
-# cli
-Porter CLI releases
+# Porter CLI
