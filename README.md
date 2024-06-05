@@ -1,1 +1,4 @@
-# Porter CLI
+# Porter Releases
+
+- Server
+- CLI
